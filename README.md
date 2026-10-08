@@ -52,5 +52,7 @@ Automation
 💬 Let's Connect
 
 📧 Email : jushhh14@gmail.com
-💼 LinkedIn : https://www.linkedin.com/in/jusvanthika-mohanraj-b48181363    
+
+💼 LinkedIn : https://www.linkedin.com/in/jusvanthika-mohanraj-b48181363 
+
 🐙 GitHub : https://github.com/Jusvanthika-24
