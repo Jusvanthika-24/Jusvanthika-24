@@ -34,8 +34,7 @@ Secure data hiding and extraction using images
 
 🛠️ Tech Stack
 
-Python  •  C  •  HTML  •  CSS  •  JavaScript
-MySQL  
+Python  •  C  •  HTML  •  CSS  •  JavaScript • MySQL  
 
 ---
 
